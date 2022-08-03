@@ -10,11 +10,6 @@
 
 本项目不会对您的 **设备损坏** 及 **数据丢失** 负责，下载 release 视为同意。
 
-## 下载
-
-1. 在 GitHub 直接下载：<https://github.com/aimerneige/Kosugi-Maru-Magisk-Simple/releases>
-2. 网络较差可以使用 [AiurDrive](https://github.com/AiursoftWeb/AiurDrive) 托管的文件：<https://aimerneige.aiur.site/magisk/kosugi-maru-magisk-simple-v1.0.220804.zip>
-
 ## 打包
 
 如果您要自己打包，请先在 [google-fonts Kosugi Maru](https://fonts.google.com/specimen/Kosugi+Maru) 下载字体文件并拷贝至 `system/fonts` 文件夹下。
