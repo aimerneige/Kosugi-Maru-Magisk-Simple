@@ -4,6 +4,10 @@
 
 [字体模板说明](README-lxgw.md)
 
+原生系统谨慎刷入
+
+本项目不会对您的 **设备损坏** 及 **数据丢失** 负责，下载 release 视为同意。
+
 ## 下载
 
 1. 在 GitHub 直接下载：<https://github.com/aimerneige/Kosugi-Maru-Magisk-Simple/releases>
