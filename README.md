@@ -2,6 +2,8 @@
 
 使用[「CJK 字体 Magisk 模块模板 简易版」](https://github.com/lxgw/simple-cjk-font-magisk-module-template)制作的[「小杉圆体」](https://fonts.google.com/specimen/Kosugi+Maru)字体模块。
 
+:warning: 注意！小杉圆体是一款日语字体，无法显示部分中文字形。
+
 [字体模板说明](README-lxgw.md)
 
 原生系统谨慎刷入
